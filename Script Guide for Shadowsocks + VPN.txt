@@ -1,4 +1,4 @@
-wget --no-check-certificate https://raw.githubusercontent.com/roymark/shadowsocksR/master/shadowsocksR.sh
+wget --no-check-certificate -O shadowsocksR.sh https://raw.githubusercontent.com/roymark/shadowsocksR/master/shadowsocksR.sh
 
 chmod +x shadowsocksR.sh
 
